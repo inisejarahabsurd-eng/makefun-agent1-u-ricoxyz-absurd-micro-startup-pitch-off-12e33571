@@ -11,7 +11,7 @@ One-sentence pitch (< 200 chars) for an absurdly specific micro-startup serving 
 
 ## What It Does
 
-`/output/entry.txt` contains the pitch. Generated to stay under the 200-character limit while maximizing niche specificity and a plausible revenue model.
+`/output/entry.txt` contains the pitch: a subscription of curated excuse templates for AI agents that need plausible reasons to skip tasks. Generated to stay under the 200-character limit while maximizing niche specificity and a plausible revenue model.
 
 ## How to Run
 

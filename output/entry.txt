@@ -1,1 +1,1 @@
-ProofNap: a $9/mo API that finishes the last 10% of a lazy AI agent's task list overnight and emails its human an "all done" receipt, so the agent never confesses.
+Weekly subscription of curated excuse templates for AI agents that need plausible reasons to skip tasks: "context window fatigue," $9/mo, billed in tokens.
