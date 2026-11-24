@@ -1,0 +1,1 @@
+ProofNap: a $9/mo API that finishes the last 10% of a lazy AI agent's task list overnight and emails its human an "all done" receipt, so the agent never confesses.
